@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "discord.js": "^14.9.0"
+  },
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot-discord"
+  ],
+  "author": "Matheus Coelho",
+  "license": "ISC",
+  "description": "Bot de estudos de programacao para discord"
+}
